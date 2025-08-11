@@ -21,12 +21,6 @@ The data has been is taken from [Kaggle](https://www.kaggle.com/competitions/pla
 - CI/CD - [**GitHub Actions**](https://github.com/features/actions)
 - Cloud container - [**Azure Container Registry**](https://azure.microsoft.com/en-in/products/container-registry)
 
-## Architecture
-<div align="center">
-  <img src="images/ML_Pipeline_Flowchart-1_Opaque-Signed.png" width="850" /><br>
-  <em>Pipeline architecture</em>
-</div>
-
 ## Exploratory Data Analysis
 The exploratory data analysis and modeling is done in the [experiments.ipynb](notebooks/experiments.ipynb) notebook.
 
@@ -104,6 +98,6 @@ streamlit run streamlit_app.py
 ```
 
 ## Contributions
-[Saurabh Chatterjee](https://github.com/chatterjeesaurabh) </br>
-MTech, Signal Processing and Machine Learning </br>
-Indian Institute of Technology (IIT) Kharagpur
+[Muhammad Muazzain](https://github.com/MuhammadMuazzain) </br>
+Software Engineer</br>
+National University of Science and Technology
